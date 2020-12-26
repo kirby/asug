@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to the Amazon Sumerian User Group
 
-You can use the [editor on GitHub](https://github.com/kirby/asug/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This repository is for developers and enthusiasts to share demos, code snippets and tutorials for [Amazon Sumerian](https://aws.amazon.com/sumerian/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This repository is maintained by the Amazon Sumerian User Group on [Meetup](https://www.meetup.com/Amazon-Sumerian-User-Group/events/275237099/). If you would to share or demo at an upcoming meetup, let @kirby know.
 
-### Markdown
+![Amazon Sumerian User Group logo](https://secure.meetupstatic.com/photos/event/8/b/4/highres_493142228.jpeg)
+<img src="https://secure.meetupstatic.com/photos/event/8/b/4/highres_493142228.jpeg" alt="Amazon Sumerian User Group Logo"
+	title="Amazon Sumerian User Group" width="480"/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Resources
 
-```markdown
-Syntax highlighted code block
+- Amazon Sumerian Slack workspace (https://amazonsumerian.slack.com/)
+    - Join the user-group (https://amazonsumerian.slack.com/archives/C01D0BQ1BR9) channel
+• Join the subreddit r/Amazon_Sumerian (https://www.reddit.com/r/Amazon_Sumerian/)
 
-# Header 1
-## Header 2
-### Header 3
+### Contact
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kirby/asug/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [Kirby Shabaga](@kirby)
+* You can use the [editor on GitHub](https://github.com/kirby/asug/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
